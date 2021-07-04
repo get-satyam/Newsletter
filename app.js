@@ -70,7 +70,6 @@
 
 
     //API KEY
-    //298ad77f032bd498cc4277d28af25e5f-us6
-
+    //xxxxx
     //LIST id
-    // ac7038130c
+    // chal hatt
