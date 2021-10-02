@@ -1,4 +1,5 @@
     //jshint esversion:6
+    //Newsletter app
 
     const express = require("express");
     const request = require("request");
